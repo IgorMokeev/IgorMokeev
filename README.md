@@ -51,9 +51,5 @@ Date: 04/28/2010
 
 * **Bauman Moscow State Technical University**:  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG" target="_blank">TCP/IP Interworking and Advanced TCP/IP Concepts and Practices</a>   
-<a href="https://gitverse.ru/api/repos/IgorMokeev/IgorMokeev/raw/branch/master/Bauman_WindowsServer2003.PNG" target="_blank">Windows Server 2003 Specialist</a></p>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG" target="_blank">Windows Server 2003 Specialist</a></p>  
 
-
-* Написать мне на почту: <a href="mailto:mokeevmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
