@@ -21,13 +21,10 @@
 
 #### Сертификаты:
 * **Linux**: AP-2101, AL-1704, LPIC-1  
-<p><a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ap2101_edit.PNG">Astra Linux AP-2101 Установка, настройка и использование ПК ALD Pro 2.1.0</a></p>  
-Date: 23/08/2024  
-<p><a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/al1704_edit.PNG">Astra Linux AL-1704 Сетевое администрирование ОС Astra Linux Special Edition 1.7</a></p>  
-Date: 26/05/2023  
-<p><a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/lpic1.PNG">LPIC-1 (Linux Professional Institute)</a></p>  
-Date: 17/03/2013  
-
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ap2101_edit.PNG">Astra Linux AP-2101 Установка, настройка и использование ПК ALD Pro 2.1.0</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/al1704_edit.PNG">Astra Linux AL-1704 Сетевое администрирование ОС Astra Linux Special Edition 1.7</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/lpic1.PNG">LPIC-1 (Linux Professional Institute)</a>  
+  
 * **Cisco**: CCENT  
 <p><a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG">Cisco Certified Entry Networking Technican</a></p>  
 Date: 1/04/2014
