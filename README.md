@@ -60,6 +60,9 @@ https://github.com/IgorMokeev/IgorMokeev/blob/main/Certificates/Bauman/Bauman_Wi
 
 [test](https://external.ink?to=/ya.ru)
 
+<a target="_blank" rel="noopener noreferrer" href="ya.ru">Link</a> 
+[link]: http://google.com
+
 * Написать мне на почту:
 <div align="left"> 
   <a href="mailto:mokeevmail@gmail.com">
