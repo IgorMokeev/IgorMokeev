@@ -58,7 +58,7 @@ Date: 04/28/2010
 <a href="https://github.com/IgorMokeev/IgorMokeev/blob/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG" target="_blank">Windows Server 2003 Specialist</a></p>  
 https://github.com/IgorMokeev/IgorMokeev/blob/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG  
 
-[Windows Server 2003 Specialist](https://external.ink?to=/https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG)  
+[test](https://external.ink?to=ya.ru)
 
 * Написать мне на почту:
 <div align="left"> 
