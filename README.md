@@ -4,12 +4,11 @@
 ### Привет👋 меня зовут Игорь Мокеев
 
 #### О себе, Soft Skills:  
-Являюсь специалистом в сфере IT, опыт работы по данному направлению более 17 лет.
-Имею профильное высшее образование.
+Являюсь специалистом в сфере IT, опыт работы по данному направлению более 17 лет.   
+Имею профильное высшее образование.  
 Постоянно обучаюсь и развиваюсь.  
-Умею планировать, вести проекты, документировать свою работу.   
-Коммуникабелен, ответственный.
-
+Умею планировать, вести проекты, документировать свою работу.    
+Коммуникабелен, ответственный.  
 
 #### Технические Навыки и опыт, Hard Skills:  
 * **Microsoft**: Windows Server 2003-2022, AD, IIS, Exchange  
@@ -41,19 +40,15 @@
 
 * **Microsoft**:  MCSA, MCITP, MCTS, MCDST, MCP  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG" target="_blank">Microsoft Certified Systems Administrator (MCSA)</a>  
-Microsoft Windows Server 2003 Date: 07/05/2010  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG" target="_blank">Microsoft Certified IT Professional (MCITP)</a>  
-Enterprise Support Technician on Windows Vista Date: 07/05/2010  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG" target="_blank">Microsoft Certified IT Professional (MCITP)</a>   
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcts.PNG" target="_blank">Microsoft Certified Technology Specialist (MCTS)</a>  
-Microsoft Windows Vista, Configuration Date: 07/05/2010  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcdst.PNG" target="_blank">Microsoft Certified Desktop Support Technician (MCDST)</a>  
-Microsoft Windows XP Date: 03/29/2010  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.jpg" target="_blank">Microsoft Certified Professional (MCP)</a>  
-Date: 04/28/2010  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.PNG" target="_blank">Microsoft Certified Professional (MCP)</a>  
+ 
 
 * **Bauman Moscow State Technical University**:  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG" target="_blank">TCP/IP Interworking and Advanced TCP/IP Concepts and Practices</a>   
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG" target="_blank">Windows Server 2003 Specialist</a></p>  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/m6420_Server2008.PNG" target="_blank">Windows Server 2008 Specialist</a></p>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG" target="_blank">TCP/IP Interworking and Advanced TCP/IP Concepts and Practices</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG" target="_blank">Windows Server 2003 Specialist</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/m6420_Server2008.PNG" target="_blank">Windows Server 2008 Specialist</a>  
 
 
