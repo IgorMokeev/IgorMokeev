@@ -22,12 +22,20 @@
 
 #### Сертификаты:
 * **Linux**: AP-2101, AL-1704, LPIC-1  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ap2101_edit.PNG" target="_blank">Astra Linux AP-2101 Установка, настройка и использование ПК ALD Pro 2.1.0</a>  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/al1704_edit.PNG" target="_blank">Astra Linux AL-1704 Сетевое администрирование ОС Astra Linux Special Edition 1.7</a>  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/lpic1.PNG" target="_blank">LPIC-1 (Linux Professional Institute)</a>  
-  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/al1704_edit.PNG" target="_blank">Astra Linux AL-1704 Сетевое администрирование ОС Astra Linux Special Edition 1.7</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ap2101_edit.PNG" target="_blank">Astra Linux AP-2101 Установка, настройка и использование ПК ALD Pro 2.1.0</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ALD_PRO_course_2025.PNG" target="_blank">Astra ALD PRO Course</a>  
+
 * **Cisco**: CCENT  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG" target="_blank">Cisco Certified Entry Networking Technican</a>  
+
+* **Microsoft**:  MCSA, MCITP, MCTS, MCDST, MCP  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG" target="_blank">Microsoft Certified Systems Administrator (MCSA)</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG" target="_blank">Microsoft Certified IT Professional (MCITP)</a>   
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcts.PNG" target="_blank">Microsoft Certified Technology Specialist (MCTS)</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcdst.PNG" target="_blank">Microsoft Certified Desktop Support Technician (MCDST)</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.PNG" target="_blank">Microsoft Certified Professional (MCP)</a>  
 
 * **Yandex**:  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/The_Basics_of_Kubernetes_Course.PNG" target="_blank">The Basics of Kubernetes</a>  
@@ -37,14 +45,6 @@
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/Data_Storage.PNG" target="_blank">Data Storage</a>  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/Monitoring.PNG" target="_blank">Monitoring</a>  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/Basics_Linux.PNG" target="_blank">Basics Linux</a>  
-
-* **Microsoft**:  MCSA, MCITP, MCTS, MCDST, MCP  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG" target="_blank">Microsoft Certified Systems Administrator (MCSA)</a>  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG" target="_blank">Microsoft Certified IT Professional (MCITP)</a>   
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcts.PNG" target="_blank">Microsoft Certified Technology Specialist (MCTS)</a>  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcdst.PNG" target="_blank">Microsoft Certified Desktop Support Technician (MCDST)</a>  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.PNG" target="_blank">Microsoft Certified Professional (MCP)</a>  
- 
 
 * **Bauman Moscow State Technical University**:  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG" target="_blank">TCP/IP Interworking and Advanced TCP/IP Concepts and Practices</a>  
