@@ -28,7 +28,7 @@
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/ALD_PRO_course_2025.PNG" target="_blank">Astra ALD PRO Course</a>  
 
 * **Cisco**: CCENT  
-<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG" target="_blank">Cisco Certified Entry Networking Technican</a>  
+<a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG" target="_blank">Cisco Certified Entry Networking Technician</a>  
 
 * **Microsoft**:  MCSA, MCITP, MCTS, MCDST, MCP  
 <a href="https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG" target="_blank">Microsoft Certified Systems Administrator (MCSA)</a>  
