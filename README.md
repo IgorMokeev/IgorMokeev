@@ -8,7 +8,7 @@
 
 **Системный администратор и DevOps-инженер.** В IT более 17 лет, профильное высшее образование. Работаю с инфраструктурой на Windows и Linux, виртуализацией, безопасностью и автоматизацией.
 
-## 🚀 Чем занимаюсь сейчас
+## ⚙️ Чем занимаюсь сейчас
 
 Развиваю учебный проект по автоматизации домашней лаборатории на **Proxmox VE 9**:
 
@@ -35,8 +35,10 @@
 
 ## 🎓 Сертификаты
 
-<details>
+<details open>
 <summary><b>🐧 Linux</b></summary>
+
+<br>
 
 - [LPIC-1 (Linux Professional Institute)](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/lpic1.PNG)
 - [Astra Linux AL-1704: Сетевое администрирование ОС Astra Linux Special Edition 1.7](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Linux/al1704_edit.PNG)
@@ -45,8 +47,32 @@
 
 </details>
 
-<details>
+<details open>
+<summary><b>🌐 Cisco</b></summary>
+
+<br>
+
+- [CCENT: Cisco Certified Entry Networking Technician](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG)
+
+</details>
+
+<details open>
+<summary><b>🪟 Microsoft</b></summary>
+
+<br>
+
+- [MCSA: Microsoft Certified Systems Administrator](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG)
+- [MCITP: Microsoft Certified IT Professional](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG)
+- [MCTS: Microsoft Certified Technology Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcts.PNG)
+- [MCDST: Microsoft Certified Desktop Support Technician](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcdst.PNG)
+- [MCP: Microsoft Certified Professional](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.PNG)
+
+</details>
+
+<details open>
 <summary><b>☁️ Yandex (DevOps и инфраструктура)</b></summary>
+
+<br>
 
 - [The Basics of Kubernetes](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/The_Basics_of_Kubernetes_Course.PNG)
 - [Containerization With Docker](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Yandex/Containerization_With_Docker.PNG)
@@ -58,29 +84,13 @@
 
 </details>
 
-<details>
-<summary><b>🌐 Сети: Cisco и МГТУ им. Баумана</b></summary>
+<details open>
+<summary><b>🎓 МГТУ им. Баумана</b></summary>
 
-- [Cisco CCENT: Cisco Certified Entry Networking Technician](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Cisco/ccent.PNG)
-- [МГТУ им. Баумана: TCP/IP Interworking and Advanced TCP/IP Concepts and Practices](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG)
+<br>
 
-</details>
-
-<details>
-<summary><b>🪟 Microsoft</b></summary>
-
-- [MCSA: Microsoft Certified Systems Administrator](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcsa.PNG)
-- [MCITP: Microsoft Certified IT Professional](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcitp.PNG)
-- [MCTS: Microsoft Certified Technology Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcts.PNG)
-
-</details>
-
-<details>
-<summary><b>🗄️ Архив (ранние сертификаты)</b></summary>
-
-- [MCDST: Microsoft Certified Desktop Support Technician](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcdst.PNG)
-- [MCP: Microsoft Certified Professional](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Microsoft/mcp.PNG)
-- [МГТУ им. Баумана: Windows Server 2003 Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG)
-- [МГТУ им. Баумана: Windows Server 2008 Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/m6420_Server2008.PNG)
+- [TCP/IP Interworking and Advanced TCP/IP Concepts and Practices](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/ciw_tcpip.PNG)
+- [Windows Server 2003 Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/Bauman_WindowsServer2003.PNG)
+- [Windows Server 2008 Specialist](https://raw.githubusercontent.com/IgorMokeev/IgorMokeev/refs/heads/main/Certificates/Bauman/m6420_Server2008.PNG)
 
 </details>
